@@ -1,0 +1,14 @@
+{
+    "name": "ddf--ihme--global_burden_disease_disability_life_lost",
+    "author": "Gapminder",
+    "description": "GBD disability and Life lost indicators",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "GBD disability and Life lost indicators",
+    "version": "0.0.1",
+    "resources": []
+}
