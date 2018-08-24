@@ -3,7 +3,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-08-20T05:40:24.629451+00:00",
+    "created": "2018-08-24T06:44:05.084213+00:00",
     "resources": [
         {
             "path": "ddf--concepts.csv",
@@ -39,9 +39,6 @@
                     },
                     {
                         "name": "type"
-                    },
-                    {
-                        "name": "is--age"
                     }
                 ],
                 "primaryKey": "age"
@@ -66,9 +63,6 @@
                     },
                     {
                         "name": "short_name"
-                    },
-                    {
-                        "name": "is--cause"
                     }
                 ],
                 "primaryKey": "cause"
@@ -90,9 +84,6 @@
                     },
                     {
                         "name": "medium_name"
-                    },
-                    {
-                        "name": "is--location"
                     }
                 ],
                 "primaryKey": "location"
@@ -114,9 +105,6 @@
                     },
                     {
                         "name": "short_name"
-                    },
-                    {
-                        "name": "is--rei"
                     }
                 ],
                 "primaryKey": "rei"
@@ -132,9 +120,6 @@
                     },
                     {
                         "name": "name"
-                    },
-                    {
-                        "name": "is--sex"
                     }
                 ],
                 "primaryKey": "sex"
@@ -105955,51 +105940,6 @@
             }
         ],
         "entities": [
-            {
-                "primaryKey": [
-                    "age"
-                ],
-                "value": "is--age",
-                "resources": [
-                    "ddf--entities--age"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "cause"
-                ],
-                "value": "is--cause",
-                "resources": [
-                    "ddf--entities--cause"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "location"
-                ],
-                "value": "is--location",
-                "resources": [
-                    "ddf--entities--location"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "rei"
-                ],
-                "value": "is--rei",
-                "resources": [
-                    "ddf--entities--rei"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "sex"
-                ],
-                "value": "is--sex",
-                "resources": [
-                    "ddf--entities--sex"
-                ]
-            },
             {
                 "primaryKey": [
                     "cause"
